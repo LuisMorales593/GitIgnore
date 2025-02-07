@@ -1,0 +1,8 @@
+#lo que no quiero que se suba a git
+.settings/
+.project
+.classpath
+.metadata/
+bin/
+for/
+

@@ -1,0 +1,12 @@
+lista1=(33,55,88,"e","d")
+lista2=[3,4,5,6,7]
+print("la tupla es ",lista1)
+print("numero de orden de posicion 2 a 5",lista1[1:6])
+print("numero de valores tupla=",len(lista1))
+c=int(10)
+print(c)
+suma=(c+lista1[1])
+print(suma)
+print(type(lista1))
+print(lista2)
+print(max(lista2))
